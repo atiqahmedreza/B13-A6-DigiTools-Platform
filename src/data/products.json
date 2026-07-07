@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Advanced AI-powered writing assistant for blogs, emails, and marketing copy with smart tone adjustment.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Unlimited AI generations",
+      "50+ writing templates",
+      "Multi-language support",
+      "SEO optimization"
+    ],
+    "icon": "/assets/products/writing-tool.png"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "description": "Professional design templates for presentations, social media, and branding projects.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "500+ premium templates",
+      "Figma & Canva compatible",
+      "Commercial license",
+      "Monthly updates"
+    ],
+    "icon": "/assets/products/design-tool.png"
+  },
+  {
+    "id": 3,
+    "name": "Automation Toolkit",
+    "description": "Streamline your workflow with powerful automation tools and smart integrations.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "100+ automation workflows",
+      "Zapier integration",
+      "Custom triggers",
+      "Analytics dashboard"
+    ],
+    "icon": "/assets/products/operation.png"
+  },
+  {
+    "id": 4,
+    "name": "Resume Builder Pro",
+    "description": "Create stunning, ATS-friendly resumes that help you land your dream job.",
+    "price": 15,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF",
+      "Cover letter builder"
+    ],
+    "icon": "/assets/products/portfolio.png"
+  },
+  {
+    "id": 5,
+    "name": "Social Media Content Kit",
+    "description": "Complete toolkit for creating engaging social media content across all platforms.",
+    "price": 25,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Content calendar",
+      "Hashtag generator",
+      "Analytics insights",
+      "Platform templates"
+    ],
+    "icon": "/assets/products/social-media.png"
+  },
+  {
+    "id": 6,
+    "name": "Premium Asset Bundle",
+    "description": "All-in-one package of premium digital assets, icons, and templates for creators.",
+    "price": 59,
+    "period": "yearly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "10,000+ premium assets",
+      "Commercial license",
+      "Weekly new additions",
+      "Cloud sync included"
+    ],
+    "icon": "/assets/package.png"
+  }
+]
